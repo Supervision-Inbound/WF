@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python -m src.download_release --owner Supervision-Inbound --repo IAs
+          python -m src.download_release --owner Supervision-Inbound --repo WF
 
       - name: Run inference (120 días)
         run: |
