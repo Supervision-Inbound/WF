@@ -1,24 +1,7 @@
 [
   {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2025-11-04",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Villarrica",
     "rango_alertas": [
-      {
-        "fecha": "2025-11-04",
-        "hora_inicio": 2,
-        "hora_fin": 2,
-        "impacto_llamadas_adicionales": 0
-      },
       {
         "fecha": "2025-11-05",
         "hora_inicio": 18,
@@ -26,9 +9,9 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-11-11",
-        "hora_inicio": 2,
-        "hora_fin": 2,
+        "fecha": "2025-11-09",
+        "hora_inicio": 6,
+        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -443,6 +426,10 @@
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
